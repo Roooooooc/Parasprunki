@@ -73,7 +73,7 @@ The Parasprunki community is actively developing new mods and engaging with play
 
 ## Recommended Platform
 
-The best way to experience Parasprunki is through [sprunkiparasite.com](https://sprunkiparasite.com/parasprunki), which offers the most optimized online play experience.
+The best way to experience Parasprunki is through [sprunkiparasite.com](https://sprunkiparasite.com/parasprunki) or [Parasprunki](https://sprunki-phase.online/parasprunki), which offers the most optimized online play experience.
 
 ## Contributing
 
